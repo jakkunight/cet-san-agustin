@@ -1,2 +1,4 @@
-sync
-*.sh
+*.log
+*.fls
+*.fdb_latexmk
+*.aux
