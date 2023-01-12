@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.12.18)  9 JAN 2023 19:35
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.12.18)  12 JAN 2023 17:30
  restricted system commands enabled.
 **plan-de-clase.tex
 (./plan-de-clase.tex
@@ -747,8 +747,8 @@ Underfull \hbox (badness 1043) in paragraph at lines 83--83
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 84--84
-[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+Underfull \hbox (badness 1762) in paragraph at lines 84--84
+[]|\TU/lmr/m/n/10 Cues-tio-na-rios Ora-
  []
 
 
@@ -782,8 +782,8 @@ Underfull \hbox (badness 5091) in paragraph at lines 100--100
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 101--101
-[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+Underfull \hbox (badness 1762) in paragraph at lines 101--101
+[]|\TU/lmr/m/n/10 Cues-tio-na-rios Ora-
  []
 
 
@@ -837,642 +837,1042 @@ Underfull \hbox (badness 4634) in paragraph at lines 112--112
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 118--119
-[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+\TU/lmr/m/n/10 Pro-gra-ma-ción con
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
+Underfull \hbox (badness 2368) in paragraph at lines 117--118
+[]\TU/lmr/m/n/10 Uti-li-zar las dis-tin-tas he-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 117--118
+\TU/lmr/m/n/10 rra-mien-tas tec-no-ló-gi-cas a
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 119--120
+\TU/lmr/m/n/10 to-rias co-mo me-dio pa-ra
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 128--129
+\TU/lmr/m/n/10 su ca-pa-ci-dad de ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
+[]\TU/lmr/m/n/10 Rea-li-za ac-cio-nes bá-si-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
+\TU/lmr/m/n/10 pro-pias del en-torno de
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 130--132
+\TU/lmr/m/n/10 pro-gra-ma-ción (Ha-cer que
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 130--132
+\TU/lmr/m/n/10 los dis-tin-tos ob-je-tos se
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 132--133
+[]\TU/lmr/m/n/10 Uti-li-za una compu-tado-ra
+ []
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 133--134
+\TU/lmr/m/n/10 ac-ti-vi-da-des rea-li-za-das en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 123--123
+Underfull \hbox (badness 6608) in paragraph at lines 137--137
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 123--123
+Underfull \hbox (badness 1043) in paragraph at lines 137--137
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 123--123
+Underfull \hbox (badness 5091) in paragraph at lines 137--137
 \TU/lmr/m/n/10 Ex-pe-ri-men-tos sen-
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 124--124
-[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+Underfull \hbox (badness 1762) in paragraph at lines 138--138
+[]|\TU/lmr/m/n/10 Cues-tio-na-rios Ora-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 125--125
+Underfull \hbox (badness 3375) in paragraph at lines 139--139
 []|\TU/lmr/m/n/10 ”Lle-gó la ca-ba-lle-
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 126--130
+Underfull \hbox (badness 2635) in paragraph at lines 140--144
 \TU/lmr/m/n/10 des bá-si-cas, co-mo
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 126--130
+Underfull \hbox (badness 1997) in paragraph at lines 140--144
 \TU/lmr/m/n/10 ti-co, el aná-li-sis y
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 126--130
+Underfull \hbox (badness 6348) in paragraph at lines 140--144
 \TU/lmr/m/n/10 cio-nes pro-ble-má-ti-
  []
 
 
-Underfull \hbox (badness 3168) in paragraph at lines 126--130
+Underfull \hbox (badness 3168) in paragraph at lines 140--144
 \TU/lmr/m/n/10 cas, y el ra-zo-na-
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 126--130
+Underfull \hbox (badness 5592) in paragraph at lines 140--144
 \TU/lmr/m/n/10 ma-te-rias me-dian-te
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 126--130
+Underfull \hbox (badness 1590) in paragraph at lines 140--144
 \TU/lmr/m/n/10 el em-pleo de jue-
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 126--130
+Underfull \hbox (badness 1117) in paragraph at lines 140--144
 \TU/lmr/m/n/10 sen-ci-llos, de mo-do
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 131--132
+Underfull \hbox (badness 1668) in paragraph at lines 145--146
 []\TU/lmr/m/n/10 Así pues, con-si-de-
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 135--135
+Underfull \hbox (badness 4634) in paragraph at lines 149--149
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 141--142
-[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+Underfull \hbox (badness 10000) in paragraph at lines 149--149
+\TU/lmr/m/n/10 Pro-gra-ma-ción con
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
+Underfull \hbox (badness 2368) in paragraph at lines 154--155
+[]\TU/lmr/m/n/10 Uti-li-zar las dis-tin-tas he-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 154--155
+\TU/lmr/m/n/10 rra-mien-tas tec-no-ló-gi-cas a
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 156--157
+\TU/lmr/m/n/10 to-rias co-mo me-dio pa-ra
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 165--166
+\TU/lmr/m/n/10 su ca-pa-ci-dad de ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+[]\TU/lmr/m/n/10 Rea-li-za ac-cio-nes bá-si-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+\TU/lmr/m/n/10 pro-pias del en-torno de
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 167--169
+\TU/lmr/m/n/10 pro-gra-ma-ción (Ha-cer que
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 167--169
+\TU/lmr/m/n/10 los dis-tin-tos ob-je-tos se
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 169--170
+[]\TU/lmr/m/n/10 Uti-li-za una compu-tado-ra
+ []
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 170--171
+\TU/lmr/m/n/10 ac-ti-vi-da-des rea-li-za-das en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 146--146
+Underfull \hbox (badness 6608) in paragraph at lines 174--174
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 146--146
+Underfull \hbox (badness 1043) in paragraph at lines 174--174
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 146--146
+Underfull \hbox (badness 5091) in paragraph at lines 174--174
 \TU/lmr/m/n/10 Ex-pe-ri-men-tos sen-
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 147--147
-[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+Underfull \hbox (badness 1762) in paragraph at lines 175--175
+[]|\TU/lmr/m/n/10 Cues-tio-na-rios Ora-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 148--148
+Underfull \hbox (badness 3375) in paragraph at lines 176--176
 []|\TU/lmr/m/n/10 ”Lle-gó la ca-ba-lle-
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 149--153
+Underfull \hbox (badness 2635) in paragraph at lines 177--181
 \TU/lmr/m/n/10 des bá-si-cas, co-mo
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 149--153
+Underfull \hbox (badness 1997) in paragraph at lines 177--181
 \TU/lmr/m/n/10 ti-co, el aná-li-sis y
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 149--153
+Underfull \hbox (badness 6348) in paragraph at lines 177--181
 \TU/lmr/m/n/10 cio-nes pro-ble-má-ti-
  []
 
 
-Underfull \hbox (badness 3168) in paragraph at lines 149--153
+Underfull \hbox (badness 3168) in paragraph at lines 177--181
 \TU/lmr/m/n/10 cas, y el ra-zo-na-
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 149--153
+Underfull \hbox (badness 5592) in paragraph at lines 177--181
 \TU/lmr/m/n/10 ma-te-rias me-dian-te
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 149--153
+Underfull \hbox (badness 1590) in paragraph at lines 177--181
 \TU/lmr/m/n/10 el em-pleo de jue-
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 149--153
+Underfull \hbox (badness 1117) in paragraph at lines 177--181
 \TU/lmr/m/n/10 sen-ci-llos, de mo-do
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 154--155
+Underfull \hbox (badness 1668) in paragraph at lines 182--183
 []\TU/lmr/m/n/10 Así pues, con-si-de-
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 158--158
+Underfull \hbox (badness 4634) in paragraph at lines 186--186
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 164--165
-[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+Underfull \hbox (badness 10000) in paragraph at lines 186--186
+\TU/lmr/m/n/10 Pro-gra-ma-ción con
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--169
+Underfull \hbox (badness 2368) in paragraph at lines 191--192
+[]\TU/lmr/m/n/10 Uti-li-zar las dis-tin-tas he-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 191--192
+\TU/lmr/m/n/10 rra-mien-tas tec-no-ló-gi-cas a
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 193--194
+\TU/lmr/m/n/10 to-rias co-mo me-dio pa-ra
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 202--203
+\TU/lmr/m/n/10 su ca-pa-ci-dad de ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--206
+[]\TU/lmr/m/n/10 Rea-li-za ac-cio-nes bá-si-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--206
+\TU/lmr/m/n/10 pro-pias del en-torno de
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 204--206
+\TU/lmr/m/n/10 pro-gra-ma-ción (Ha-cer que
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 204--206
+\TU/lmr/m/n/10 los dis-tin-tos ob-je-tos se
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 206--207
+[]\TU/lmr/m/n/10 Uti-li-za una compu-tado-ra
+ []
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 207--208
+\TU/lmr/m/n/10 ac-ti-vi-da-des rea-li-za-das en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--211
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 169--169
+Underfull \hbox (badness 6608) in paragraph at lines 211--211
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 169--169
+Underfull \hbox (badness 1043) in paragraph at lines 211--211
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 169--169
+Underfull \hbox (badness 5091) in paragraph at lines 211--211
 \TU/lmr/m/n/10 Ex-pe-ri-men-tos sen-
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 170--170
-[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+Underfull \hbox (badness 1762) in paragraph at lines 212--212
+[]|\TU/lmr/m/n/10 Cues-tio-na-rios Ora-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 171--171
+Underfull \hbox (badness 3375) in paragraph at lines 213--213
 []|\TU/lmr/m/n/10 ”Lle-gó la ca-ba-lle-
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 172--176
+Underfull \hbox (badness 2635) in paragraph at lines 214--218
 \TU/lmr/m/n/10 des bá-si-cas, co-mo
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 172--176
+Underfull \hbox (badness 1997) in paragraph at lines 214--218
 \TU/lmr/m/n/10 ti-co, el aná-li-sis y
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 172--176
+Underfull \hbox (badness 6348) in paragraph at lines 214--218
 \TU/lmr/m/n/10 cio-nes pro-ble-má-ti-
  []
 
 
-Underfull \hbox (badness 3168) in paragraph at lines 172--176
+Underfull \hbox (badness 3168) in paragraph at lines 214--218
 \TU/lmr/m/n/10 cas, y el ra-zo-na-
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 172--176
+Underfull \hbox (badness 5592) in paragraph at lines 214--218
 \TU/lmr/m/n/10 ma-te-rias me-dian-te
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 172--176
+Underfull \hbox (badness 1590) in paragraph at lines 214--218
 \TU/lmr/m/n/10 el em-pleo de jue-
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 172--176
+Underfull \hbox (badness 1117) in paragraph at lines 214--218
 \TU/lmr/m/n/10 sen-ci-llos, de mo-do
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 177--178
+Underfull \hbox (badness 1668) in paragraph at lines 219--220
 []\TU/lmr/m/n/10 Así pues, con-si-de-
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 181--181
+Underfull \hbox (badness 4634) in paragraph at lines 223--223
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 187--188
-[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+Underfull \hbox (badness 10000) in paragraph at lines 223--223
+\TU/lmr/m/n/10 Pro-gra-ma-ción con
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--192
+Underfull \hbox (badness 2368) in paragraph at lines 228--229
+[]\TU/lmr/m/n/10 Uti-li-zar las dis-tin-tas he-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 228--229
+\TU/lmr/m/n/10 rra-mien-tas tec-no-ló-gi-cas a
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 230--231
+\TU/lmr/m/n/10 to-rias co-mo me-dio pa-ra
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 239--240
+\TU/lmr/m/n/10 su ca-pa-ci-dad de ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
+[]\TU/lmr/m/n/10 Rea-li-za ac-cio-nes bá-si-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
+\TU/lmr/m/n/10 pro-pias del en-torno de
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 241--243
+\TU/lmr/m/n/10 pro-gra-ma-ción (Ha-cer que
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 241--243
+\TU/lmr/m/n/10 los dis-tin-tos ob-je-tos se
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 243--244
+[]\TU/lmr/m/n/10 Uti-li-za una compu-tado-ra
+ []
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 244--245
+\TU/lmr/m/n/10 ac-ti-vi-da-des rea-li-za-das en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 192--192
+Underfull \hbox (badness 6608) in paragraph at lines 248--248
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 192--192
+Underfull \hbox (badness 1043) in paragraph at lines 248--248
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 192--192
+Underfull \hbox (badness 5091) in paragraph at lines 248--248
 \TU/lmr/m/n/10 Ex-pe-ri-men-tos sen-
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 193--193
-[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+Underfull \hbox (badness 1762) in paragraph at lines 249--249
+[]|\TU/lmr/m/n/10 Cues-tio-na-rios Ora-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 194--194
+Underfull \hbox (badness 3375) in paragraph at lines 250--250
 []|\TU/lmr/m/n/10 ”Lle-gó la ca-ba-lle-
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 195--199
+Underfull \hbox (badness 2635) in paragraph at lines 251--255
 \TU/lmr/m/n/10 des bá-si-cas, co-mo
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 195--199
+Underfull \hbox (badness 1997) in paragraph at lines 251--255
 \TU/lmr/m/n/10 ti-co, el aná-li-sis y
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 195--199
+Underfull \hbox (badness 6348) in paragraph at lines 251--255
 \TU/lmr/m/n/10 cio-nes pro-ble-má-ti-
  []
 
 
-Underfull \hbox (badness 3168) in paragraph at lines 195--199
+Underfull \hbox (badness 3168) in paragraph at lines 251--255
 \TU/lmr/m/n/10 cas, y el ra-zo-na-
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 195--199
+Underfull \hbox (badness 5592) in paragraph at lines 251--255
 \TU/lmr/m/n/10 ma-te-rias me-dian-te
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 195--199
+Underfull \hbox (badness 1590) in paragraph at lines 251--255
 \TU/lmr/m/n/10 el em-pleo de jue-
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 195--199
+Underfull \hbox (badness 1117) in paragraph at lines 251--255
 \TU/lmr/m/n/10 sen-ci-llos, de mo-do
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 200--201
+Underfull \hbox (badness 1668) in paragraph at lines 256--257
 []\TU/lmr/m/n/10 Así pues, con-si-de-
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 204--204
+Underfull \hbox (badness 4634) in paragraph at lines 260--260
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 210--211
-[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+Underfull \hbox (badness 10000) in paragraph at lines 260--260
+\TU/lmr/m/n/10 Pro-gra-ma-ción con
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--215
+Underfull \hbox (badness 2368) in paragraph at lines 265--266
+[]\TU/lmr/m/n/10 Uti-li-zar las dis-tin-tas he-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 265--266
+\TU/lmr/m/n/10 rra-mien-tas tec-no-ló-gi-cas a
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 267--268
+\TU/lmr/m/n/10 to-rias co-mo me-dio pa-ra
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 276--277
+\TU/lmr/m/n/10 su ca-pa-ci-dad de ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--280
+[]\TU/lmr/m/n/10 Rea-li-za ac-cio-nes bá-si-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--280
+\TU/lmr/m/n/10 pro-pias del en-torno de
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 278--280
+\TU/lmr/m/n/10 pro-gra-ma-ción (Ha-cer que
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 278--280
+\TU/lmr/m/n/10 los dis-tin-tos ob-je-tos se
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 280--281
+[]\TU/lmr/m/n/10 Uti-li-za una compu-tado-ra
+ []
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 281--282
+\TU/lmr/m/n/10 ac-ti-vi-da-des rea-li-za-das en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 215--215
+Underfull \hbox (badness 6608) in paragraph at lines 285--285
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 215--215
+Underfull \hbox (badness 1043) in paragraph at lines 285--285
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 215--215
+Underfull \hbox (badness 5091) in paragraph at lines 285--285
 \TU/lmr/m/n/10 Ex-pe-ri-men-tos sen-
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 216--216
-[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+Underfull \hbox (badness 1762) in paragraph at lines 286--286
+[]|\TU/lmr/m/n/10 Cues-tio-na-rios Ora-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 217--217
+Underfull \hbox (badness 3375) in paragraph at lines 287--287
 []|\TU/lmr/m/n/10 ”Lle-gó la ca-ba-lle-
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 218--222
+Underfull \hbox (badness 2635) in paragraph at lines 288--292
 \TU/lmr/m/n/10 des bá-si-cas, co-mo
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 218--222
+Underfull \hbox (badness 1997) in paragraph at lines 288--292
 \TU/lmr/m/n/10 ti-co, el aná-li-sis y
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 218--222
+Underfull \hbox (badness 6348) in paragraph at lines 288--292
 \TU/lmr/m/n/10 cio-nes pro-ble-má-ti-
  []
 
 
-Underfull \hbox (badness 3168) in paragraph at lines 218--222
+Underfull \hbox (badness 3168) in paragraph at lines 288--292
 \TU/lmr/m/n/10 cas, y el ra-zo-na-
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 218--222
+Underfull \hbox (badness 5592) in paragraph at lines 288--292
 \TU/lmr/m/n/10 ma-te-rias me-dian-te
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 218--222
+Underfull \hbox (badness 1590) in paragraph at lines 288--292
 \TU/lmr/m/n/10 el em-pleo de jue-
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 218--222
+Underfull \hbox (badness 1117) in paragraph at lines 288--292
 \TU/lmr/m/n/10 sen-ci-llos, de mo-do
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 223--224
+Underfull \hbox (badness 1668) in paragraph at lines 293--294
 []\TU/lmr/m/n/10 Así pues, con-si-de-
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 227--227
+Underfull \hbox (badness 4634) in paragraph at lines 297--297
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 233--234
-[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+\TU/lmr/m/n/10 Pro-gra-ma-ción con
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
+Underfull \hbox (badness 2368) in paragraph at lines 302--303
+[]\TU/lmr/m/n/10 Uti-li-zar las dis-tin-tas he-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 302--303
+\TU/lmr/m/n/10 rra-mien-tas tec-no-ló-gi-cas a
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 304--305
+\TU/lmr/m/n/10 to-rias co-mo me-dio pa-ra
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 313--314
+\TU/lmr/m/n/10 su ca-pa-ci-dad de ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--317
+[]\TU/lmr/m/n/10 Rea-li-za ac-cio-nes bá-si-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--317
+\TU/lmr/m/n/10 pro-pias del en-torno de
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 315--317
+\TU/lmr/m/n/10 pro-gra-ma-ción (Ha-cer que
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 315--317
+\TU/lmr/m/n/10 los dis-tin-tos ob-je-tos se
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 317--318
+[]\TU/lmr/m/n/10 Uti-li-za una compu-tado-ra
+ []
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 318--319
+\TU/lmr/m/n/10 ac-ti-vi-da-des rea-li-za-das en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 238--238
+Underfull \hbox (badness 6608) in paragraph at lines 322--322
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 238--238
+Underfull \hbox (badness 1043) in paragraph at lines 322--322
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 238--238
+Underfull \hbox (badness 5091) in paragraph at lines 322--322
 \TU/lmr/m/n/10 Ex-pe-ri-men-tos sen-
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 239--239
-[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+Underfull \hbox (badness 1762) in paragraph at lines 323--323
+[]|\TU/lmr/m/n/10 Cues-tio-na-rios Ora-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 240--240
+Underfull \hbox (badness 3375) in paragraph at lines 324--324
 []|\TU/lmr/m/n/10 ”Lle-gó la ca-ba-lle-
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 241--245
+Underfull \hbox (badness 2635) in paragraph at lines 325--329
 \TU/lmr/m/n/10 des bá-si-cas, co-mo
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 241--245
+Underfull \hbox (badness 1997) in paragraph at lines 325--329
 \TU/lmr/m/n/10 ti-co, el aná-li-sis y
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 241--245
+Underfull \hbox (badness 6348) in paragraph at lines 325--329
 \TU/lmr/m/n/10 cio-nes pro-ble-má-ti-
  []
 
 
-Underfull \hbox (badness 3168) in paragraph at lines 241--245
+Underfull \hbox (badness 3168) in paragraph at lines 325--329
 \TU/lmr/m/n/10 cas, y el ra-zo-na-
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 241--245
+Underfull \hbox (badness 5592) in paragraph at lines 325--329
 \TU/lmr/m/n/10 ma-te-rias me-dian-te
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 241--245
+Underfull \hbox (badness 1590) in paragraph at lines 325--329
 \TU/lmr/m/n/10 el em-pleo de jue-
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 241--245
+Underfull \hbox (badness 1117) in paragraph at lines 325--329
 \TU/lmr/m/n/10 sen-ci-llos, de mo-do
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 246--247
+Underfull \hbox (badness 1668) in paragraph at lines 330--331
 []\TU/lmr/m/n/10 Así pues, con-si-de-
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 250--250
+Underfull \hbox (badness 4634) in paragraph at lines 334--334
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 256--257
-[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+Underfull \hbox (badness 10000) in paragraph at lines 334--334
+\TU/lmr/m/n/10 Pro-gra-ma-ción con
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--261
+Underfull \hbox (badness 2368) in paragraph at lines 339--340
+[]\TU/lmr/m/n/10 Uti-li-zar las dis-tin-tas he-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 339--340
+\TU/lmr/m/n/10 rra-mien-tas tec-no-ló-gi-cas a
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 341--342
+\TU/lmr/m/n/10 to-rias co-mo me-dio pa-ra
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 350--351
+\TU/lmr/m/n/10 su ca-pa-ci-dad de ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--354
+[]\TU/lmr/m/n/10 Rea-li-za ac-cio-nes bá-si-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--354
+\TU/lmr/m/n/10 pro-pias del en-torno de
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 352--354
+\TU/lmr/m/n/10 pro-gra-ma-ción (Ha-cer que
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 352--354
+\TU/lmr/m/n/10 los dis-tin-tos ob-je-tos se
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 354--355
+[]\TU/lmr/m/n/10 Uti-li-za una compu-tado-ra
+ []
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 355--356
+\TU/lmr/m/n/10 ac-ti-vi-da-des rea-li-za-das en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--359
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 261--261
+Underfull \hbox (badness 6608) in paragraph at lines 359--359
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 261--261
+Underfull \hbox (badness 1043) in paragraph at lines 359--359
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 261--261
+Underfull \hbox (badness 5091) in paragraph at lines 359--359
 \TU/lmr/m/n/10 Ex-pe-ri-men-tos sen-
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 262--262
-[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+Underfull \hbox (badness 1762) in paragraph at lines 360--360
+[]|\TU/lmr/m/n/10 Cues-tio-na-rios Ora-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 263--263
+Underfull \hbox (badness 3375) in paragraph at lines 361--361
 []|\TU/lmr/m/n/10 ”Lle-gó la ca-ba-lle-
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 264--268
+Underfull \hbox (badness 2635) in paragraph at lines 362--366
 \TU/lmr/m/n/10 des bá-si-cas, co-mo
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 264--268
+Underfull \hbox (badness 1997) in paragraph at lines 362--366
 \TU/lmr/m/n/10 ti-co, el aná-li-sis y
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 264--268
+Underfull \hbox (badness 6348) in paragraph at lines 362--366
 \TU/lmr/m/n/10 cio-nes pro-ble-má-ti-
  []
 
 
-Underfull \hbox (badness 3168) in paragraph at lines 264--268
+Underfull \hbox (badness 3168) in paragraph at lines 362--366
 \TU/lmr/m/n/10 cas, y el ra-zo-na-
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 264--268
+Underfull \hbox (badness 5592) in paragraph at lines 362--366
 \TU/lmr/m/n/10 ma-te-rias me-dian-te
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 264--268
+Underfull \hbox (badness 1590) in paragraph at lines 362--366
 \TU/lmr/m/n/10 el em-pleo de jue-
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 264--268
+Underfull \hbox (badness 1117) in paragraph at lines 362--366
 \TU/lmr/m/n/10 sen-ci-llos, de mo-do
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 269--270
+Underfull \hbox (badness 1668) in paragraph at lines 367--368
 []\TU/lmr/m/n/10 Así pues, con-si-de-
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 273--273
+Underfull \hbox (badness 4634) in paragraph at lines 371--371
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 279--280
-[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+Underfull \hbox (badness 10000) in paragraph at lines 371--371
+\TU/lmr/m/n/10 Pro-gra-ma-ción con
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--284
+Underfull \hbox (badness 2368) in paragraph at lines 376--377
+[]\TU/lmr/m/n/10 Uti-li-zar las dis-tin-tas he-
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 376--377
+\TU/lmr/m/n/10 rra-mien-tas tec-no-ló-gi-cas a
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 378--379
+\TU/lmr/m/n/10 to-rias co-mo me-dio pa-ra
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 387--388
+\TU/lmr/m/n/10 su ca-pa-ci-dad de ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--391
+[]\TU/lmr/m/n/10 Rea-li-za ac-cio-nes bá-si-cas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--391
+\TU/lmr/m/n/10 pro-pias del en-torno de
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 389--391
+\TU/lmr/m/n/10 pro-gra-ma-ción (Ha-cer que
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 389--391
+\TU/lmr/m/n/10 los dis-tin-tos ob-je-tos se
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 391--392
+[]\TU/lmr/m/n/10 Uti-li-za una compu-tado-ra
+ []
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 392--393
+\TU/lmr/m/n/10 ac-ti-vi-da-des rea-li-za-das en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--396
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 284--284
+Underfull \hbox (badness 6608) in paragraph at lines 396--396
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 284--284
+Underfull \hbox (badness 1043) in paragraph at lines 396--396
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 284--284
+Underfull \hbox (badness 5091) in paragraph at lines 396--396
 \TU/lmr/m/n/10 Ex-pe-ri-men-tos sen-
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 285--285
-[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+Underfull \hbox (badness 1762) in paragraph at lines 397--397
+[]|\TU/lmr/m/n/10 Cues-tio-na-rios Ora-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 286--286
+Underfull \hbox (badness 3375) in paragraph at lines 398--398
 []|\TU/lmr/m/n/10 ”Lle-gó la ca-ba-lle-
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 287--291
+Underfull \hbox (badness 2635) in paragraph at lines 399--403
 \TU/lmr/m/n/10 des bá-si-cas, co-mo
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 287--291
+Underfull \hbox (badness 1997) in paragraph at lines 399--403
 \TU/lmr/m/n/10 ti-co, el aná-li-sis y
  []
 
 
-Underfull \hbox (badness 6348) in paragraph at lines 287--291
+Underfull \hbox (badness 6348) in paragraph at lines 399--403
 \TU/lmr/m/n/10 cio-nes pro-ble-má-ti-
  []
 
 
-Underfull \hbox (badness 3168) in paragraph at lines 287--291
+Underfull \hbox (badness 3168) in paragraph at lines 399--403
 \TU/lmr/m/n/10 cas, y el ra-zo-na-
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 287--291
+Underfull \hbox (badness 5592) in paragraph at lines 399--403
 \TU/lmr/m/n/10 ma-te-rias me-dian-te
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 287--291
+Underfull \hbox (badness 1590) in paragraph at lines 399--403
 \TU/lmr/m/n/10 el em-pleo de jue-
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 287--291
+Underfull \hbox (badness 1117) in paragraph at lines 399--403
 \TU/lmr/m/n/10 sen-ci-llos, de mo-do
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 292--293
+Underfull \hbox (badness 1668) in paragraph at lines 404--405
 []\TU/lmr/m/n/10 Así pues, con-si-de-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 70--295
+Overfull \hbox (14.0752pt too wide) in alignment at lines 70--407
  [][][][][][][] 
  []
 
@@ -1482,509 +1882,1519 @@ Overfull \hbox (14.0752pt too wide) in alignment at lines 70--295
 go.png>] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 303.
+Package luatex.def Info: cegsa-logo.png  used on input line 419.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 303.
+Package luatex.def Info: cetsa-logo.png  used on input line 419.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 319--319
+Underfull \hbox (badness 10000) in paragraph at lines 435--435
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--322
+Underfull \hbox (badness 10000) in paragraph at lines 438--438
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 322--322
+Underfull \hbox (badness 3375) in paragraph at lines 438--438
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 323--323
+Underfull \hbox (badness 1442) in paragraph at lines 439--439
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 324--325
+Underfull \hbox (badness 2111) in paragraph at lines 440--441
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 315--326
+Overfull \hbox (14.0752pt too wide) in alignment at lines 431--442
  [][][][][][][] 
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 326--458
+Underfull \hbox (badness 4634) in paragraph at lines 445--445
+[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 451--452
+[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+[]|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 456--456
+\TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 456--456
+\TU/lmr/m/n/10 Li-bros de cuen-tos,
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 457--457
+[]|\TU/lmr/m/n/10 Cues-tio-na-rios Ora-
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 462--462
+[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 471--472
+[]\TU/lmr/m/n/10 Re-suel-ve pro-ble-mas me-
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 473--474
+\TU/lmr/m/n/10 ci-llas pro-pias de la pro-
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 477--477
+[]|\TU/lmr/m/n/10 Dia-gra-mas ilus-tra-
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 477--477
+\TU/lmr/m/n/10 sen-ci-llos, pre-sen-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--478
+[]|\TU/lmr/m/n/10 Ejer-ci-cios prác-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--478
+\TU/lmr/m/n/10 cos, Cues-tio-na-rios
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 479--479
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 480--484
+\TU/lmr/m/n/10 tos e in-for-ma-ción’.
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 480--484
+\TU/lmr/m/n/10 El mis-mo con-sis-te
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 480--484
+\TU/lmr/m/n/10 dan crear los su-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 480--484
+\TU/lmr/m/n/10 y sen-ci-llas, y to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+[]\TU/lmr/m/n/10 Uti-li-za co-rrec-ta-men-te
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 492--493
+\TU/lmr/m/n/10 ”Scratch jr.”pa-ra eje-cu-tar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+\TU/lmr/m/n/10 so-lu-cio-nes pre-via-men-te
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 492--493
+\TU/lmr/m/n/10 plan-tea-das, tan-to por el
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 498--499
+[]\TU/lmr/m/n/10 Re-suel-ve pro-ble-mas me-
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 500--501
+\TU/lmr/m/n/10 so”de una so-lu-ción pro-
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 506--506
+[]|\TU/lmr/m/n/10 Dia-gra-mas ilus-tra-
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 506--506
+\TU/lmr/m/n/10 sen-ci-llos, pre-sen-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--507
+[]|\TU/lmr/m/n/10 Ejer-ci-cios prác-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 507--507
+\TU/lmr/m/n/10 cos, Cues-tio-na-rios
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 508--508
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 509--513
+\TU/lmr/m/n/10 tos e in-for-ma-ción’.
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 509--513
+\TU/lmr/m/n/10 El mis-mo con-sis-te
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 509--513
+\TU/lmr/m/n/10 dan crear los su-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 509--513
+\TU/lmr/m/n/10 y sen-ci-llas, y to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--516
+[]|\TU/lmr/m/n/10 Pro-gra-ma-ción con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+[]\TU/lmr/m/n/10 Uti-li-zar co-rrec-ta-men-te
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 522--523
+\TU/lmr/m/n/10 ”Scratch jr.”pa-ra eje-cu-tar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+\TU/lmr/m/n/10 so-lu-cio-nes pre-via-men-te
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 522--523
+\TU/lmr/m/n/10 plan-tea-das, tan-to por el
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 524--525
+[]\TU/lmr/m/n/10 Fi-jar o ad-qui-rir co-no-ci-
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 529--530
+[]\TU/lmr/m/n/10 Re-suel-ve pro-ble-mas me-
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 531--532
+\TU/lmr/m/n/10 so”de una so-lu-ción pro-
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 534--535
+[]\TU/lmr/m/n/10 Or-de-na ideas de ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 538--538
+[]|\TU/lmr/m/n/10 Dia-gra-mas ilus-tra-
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 538--538
+\TU/lmr/m/n/10 sen-ci-llos, pre-sen-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--539
+[]|\TU/lmr/m/n/10 Ejer-ci-cios prác-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 539--539
+\TU/lmr/m/n/10 cos, Cues-tio-na-rios
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 540--540
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 541--545
+\TU/lmr/m/n/10 tos e in-for-ma-ción’.
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 541--545
+\TU/lmr/m/n/10 El mis-mo con-sis-te
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 541--545
+\TU/lmr/m/n/10 dan crear los su-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 541--545
+\TU/lmr/m/n/10 y sen-ci-llas, y to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 548--548
+[]|\TU/lmr/m/n/10 Pro-gra-ma-ción con
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 558--559
+[]\TU/lmr/m/n/10 Re-suel-ve pro-ble-mas me-
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 562--562
+[]|\TU/lmr/m/n/10 Dia-gra-mas ilus-tra-
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 562--562
+\TU/lmr/m/n/10 sen-ci-llos, pre-sen-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--563
+[]|\TU/lmr/m/n/10 Ejer-ci-cios prác-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 563--563
+\TU/lmr/m/n/10 cos, Cues-tio-na-rios
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 564--564
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 565--569
+\TU/lmr/m/n/10 tos e in-for-ma-ción’.
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 565--569
+\TU/lmr/m/n/10 El mis-mo con-sis-te
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 565--569
+\TU/lmr/m/n/10 dan crear los su-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 565--569
+\TU/lmr/m/n/10 y sen-ci-llas, y to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 572--572
+[]|\TU/lmr/m/n/10 Pro-gra-ma-ción con
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 581--582
+[]\TU/lmr/m/n/10 Re-suel-ve pro-ble-mas me-
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 585--585
+[]|\TU/lmr/m/n/10 Dia-gra-mas ilus-tra-
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 585--585
+\TU/lmr/m/n/10 sen-ci-llos, pre-sen-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--586
+[]|\TU/lmr/m/n/10 Ejer-ci-cios prác-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--586
+\TU/lmr/m/n/10 cos, Cues-tio-na-rios
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 587--587
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 588--592
+\TU/lmr/m/n/10 tos e in-for-ma-ción’.
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 588--592
+\TU/lmr/m/n/10 El mis-mo con-sis-te
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 588--592
+\TU/lmr/m/n/10 dan crear los su-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 588--592
+\TU/lmr/m/n/10 y sen-ci-llas, y to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 595--595
+[]|\TU/lmr/m/n/10 Pro-gra-ma-ción con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+[]\TU/lmr/m/n/10 Uti-li-zar co-rrec-ta-men-te
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 600--601
+\TU/lmr/m/n/10 ”Scratch jr.”pa-ra eje-cu-tar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+\TU/lmr/m/n/10 so-lu-cio-nes pre-via-men-te
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 600--601
+\TU/lmr/m/n/10 plan-tea-das, tan-to por el
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 602--603
+[]\TU/lmr/m/n/10 Fi-jar o ad-qui-rir co-no-ci-
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 603--604
+[]\TU/lmr/m/n/10 Usar una compu-tado-ra o
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 608--609
+[]\TU/lmr/m/n/10 Re-suel-ve pro-ble-mas me-
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 610--611
+\TU/lmr/m/n/10 so”de una so-lu-ción pro-
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 614--615
+[]\TU/lmr/m/n/10 Or-de-na ideas de ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 618--618
+[]|\TU/lmr/m/n/10 Dia-gra-mas ilus-tra-
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 618--618
+\TU/lmr/m/n/10 sen-ci-llos, pre-sen-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--619
+[]|\TU/lmr/m/n/10 Ejer-ci-cios prác-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--619
+\TU/lmr/m/n/10 cos, Cues-tio-na-rios
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 620--620
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 621--625
+\TU/lmr/m/n/10 tos e in-for-ma-ción’.
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 621--625
+\TU/lmr/m/n/10 El mis-mo con-sis-te
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 621--625
+\TU/lmr/m/n/10 dan crear los su-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 621--625
+\TU/lmr/m/n/10 y sen-ci-llas, y to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+[]|\TU/lmr/m/n/10 Pro-gra-ma-ción con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 633--634
+[]\TU/lmr/m/n/10 Uti-li-zar co-rrec-ta-men-te
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 633--634
+\TU/lmr/m/n/10 ”Scratch jr.”pa-ra eje-cu-tar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 633--634
+\TU/lmr/m/n/10 so-lu-cio-nes pre-via-men-te
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 633--634
+\TU/lmr/m/n/10 plan-tea-das, tan-to por el
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 635--636
+[]\TU/lmr/m/n/10 Fi-jar o ad-qui-rir co-no-ci-
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 636--637
+[]\TU/lmr/m/n/10 Usar una compu-tado-ra o
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 641--642
+[]\TU/lmr/m/n/10 Re-suel-ve pro-ble-mas me-
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 643--644
+\TU/lmr/m/n/10 so”de una so-lu-ción pro-
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 647--648
+[]\TU/lmr/m/n/10 Or-de-na ideas de ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 651--651
+[]|\TU/lmr/m/n/10 Dia-gra-mas ilus-tra-
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 651--651
+\TU/lmr/m/n/10 sen-ci-llos, pre-sen-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 652--652
+[]|\TU/lmr/m/n/10 Ejer-ci-cios prác-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 652--652
+\TU/lmr/m/n/10 cos, Cues-tio-na-rios
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 653--653
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 654--658
+\TU/lmr/m/n/10 tos e in-for-ma-ción’.
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 654--658
+\TU/lmr/m/n/10 El mis-mo con-sis-te
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 654--658
+\TU/lmr/m/n/10 dan crear los su-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 654--658
+\TU/lmr/m/n/10 y sen-ci-llas, y to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--661
+[]|\TU/lmr/m/n/10 Pro-gra-ma-ción con
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 666--667
+[]\TU/lmr/m/n/10 Uti-li-zar co-rrec-ta-men-te
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 666--667
+\TU/lmr/m/n/10 ”Scratch jr.”pa-ra eje-cu-tar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 666--667
+\TU/lmr/m/n/10 so-lu-cio-nes pre-via-men-te
+ []
+
+
+Underfull \hbox (badness 2856) in paragraph at lines 666--667
+\TU/lmr/m/n/10 plan-tea-das, tan-to por el
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 668--669
+[]\TU/lmr/m/n/10 Fi-jar o ad-qui-rir co-no-ci-
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 669--670
+[]\TU/lmr/m/n/10 Usar una compu-tado-ra o
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 674--675
+[]\TU/lmr/m/n/10 Re-suel-ve pro-ble-mas me-
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 676--677
+\TU/lmr/m/n/10 so”de una so-lu-ción pro-
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 680--681
+[]\TU/lmr/m/n/10 Or-de-na ideas de ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 684--684
+[]|\TU/lmr/m/n/10 Dia-gra-mas ilus-tra-
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 684--684
+\TU/lmr/m/n/10 sen-ci-llos, pre-sen-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 685--685
+[]|\TU/lmr/m/n/10 Ejer-ci-cios prác-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 685--685
+\TU/lmr/m/n/10 cos, Cues-tio-na-rios
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 686--686
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 687--691
+\TU/lmr/m/n/10 tos e in-for-ma-ción’.
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 687--691
+\TU/lmr/m/n/10 El mis-mo con-sis-te
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 687--691
+\TU/lmr/m/n/10 dan crear los su-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 687--691
+\TU/lmr/m/n/10 y sen-ci-llas, y to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--694
+[]|\TU/lmr/m/n/10 Pro-gra-ma-ción con
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 699--700
+[]\TU/lmr/m/n/10 Usar una compu-tado-ra o
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 704--705
+[]\TU/lmr/m/n/10 Re-suel-ve pro-ble-mas me-
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 708--708
+[]|\TU/lmr/m/n/10 Dia-gra-mas ilus-tra-
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 708--708
+\TU/lmr/m/n/10 sen-ci-llos, pre-sen-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--709
+[]|\TU/lmr/m/n/10 Ejer-ci-cios prác-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--709
+\TU/lmr/m/n/10 cos, Cues-tio-na-rios
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 710--710
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 711--715
+\TU/lmr/m/n/10 tos e in-for-ma-ción’.
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 711--715
+\TU/lmr/m/n/10 El mis-mo con-sis-te
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 711--715
+\TU/lmr/m/n/10 dan crear los su-
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 711--715
+\TU/lmr/m/n/10 y sen-ci-llas, y to-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 442--717
  [][][][][][][] 
  []
 
-[12] [13]
+[12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 466.
+Package luatex.def Info: cegsa-logo.png  used on input line 725.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 466.
+Package luatex.def Info: cetsa-logo.png  used on input line 725.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 482--482
+Underfull \hbox (badness 10000) in paragraph at lines 741--741
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 485--485
+Underfull \hbox (badness 10000) in paragraph at lines 744--744
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 485--485
+Underfull \hbox (badness 3375) in paragraph at lines 744--744
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 486--486
+Underfull \hbox (badness 1442) in paragraph at lines 745--745
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 487--488
+Underfull \hbox (badness 2111) in paragraph at lines 746--747
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 478--489
+Overfull \hbox (14.0752pt too wide) in alignment at lines 737--748
  [][][][][][][] 
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 489--621
- [][][][][][][] 
- []
-
-[14] [15]
-File: cegsa-logo.png Graphic file (type png)
-<use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 629.
-(luatex.def)             Requested size: 227.90889pt x 79.2479pt.
-File: cetsa-logo.png Graphic file (type png)
-<use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 629.
-(luatex.def)             Requested size: 227.90889pt x 65.90999pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 645--645
-[]|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
+Underfull \hbox (badness 4634) in paragraph at lines 751--751
+[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 648--648
-[]|\TU/lmr/bx/n/10 Re-cur-sos Di-
+Underfull \hbox (badness 5681) in paragraph at lines 757--758
+[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 648--648
-\TU/lmr/bx/n/10 dác-ti-cos/Uso de
+Underfull \hbox (badness 10000) in paragraph at lines 761--761
+[]|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 649--649
-[]|\TU/lmr/bx/n/10 Ins-tru-men-tos de
+Underfull \hbox (badness 6608) in paragraph at lines 761--761
+\TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 650--651
-[]|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
+Underfull \hbox (badness 1043) in paragraph at lines 761--761
+\TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 641--652
- [][][][][][][] 
+Underfull \hbox (badness 1163) in paragraph at lines 762--762
+[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 652--784
- [][][][][][][] 
- []
-
-[16] [17]
-File: cegsa-logo.png Graphic file (type png)
-<use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 792.
-(luatex.def)             Requested size: 227.90889pt x 79.2479pt.
-File: cetsa-logo.png Graphic file (type png)
-<use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 792.
-(luatex.def)             Requested size: 227.90889pt x 65.90999pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 808--808
-[]|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 811--811
-[]|\TU/lmr/bx/n/10 Re-cur-sos Di-
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 811--811
-\TU/lmr/bx/n/10 dác-ti-cos/Uso de
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 812--812
-[]|\TU/lmr/bx/n/10 Ins-tru-men-tos de
- []
-
-
-Underfull \hbox (badness 2111) in paragraph at lines 813--814
-[]|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
- []
-
-
-Overfull \hbox (14.0752pt too wide) in alignment at lines 804--815
- [][][][][][][] 
- []
-
-
-Overfull \hbox (14.0752pt too wide) in alignment at lines 815--947
- [][][][][][][] 
- []
-
-[18] [19]
-File: cegsa-logo.png Graphic file (type png)
-<use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 955.
-(luatex.def)             Requested size: 227.90889pt x 79.2479pt.
-File: cetsa-logo.png Graphic file (type png)
-<use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 955.
-(luatex.def)             Requested size: 227.90889pt x 65.90999pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 971--971
-[]|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 974--974
-[]|\TU/lmr/bx/n/10 Re-cur-sos Di-
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 974--974
-\TU/lmr/bx/n/10 dác-ti-cos/Uso de
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 975--975
-[]|\TU/lmr/bx/n/10 Ins-tru-men-tos de
- []
-
-
-Underfull \hbox (badness 2111) in paragraph at lines 976--977
-[]|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
- []
-
-
-Overfull \hbox (14.0752pt too wide) in alignment at lines 967--978
- [][][][][][][] 
- []
-
-
-Overfull \hbox (14.0752pt too wide) in alignment at lines 978--1110
- [][][][][][][] 
- []
-
-[20] [21]
-File: cegsa-logo.png Graphic file (type png)
-<use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 1118.
-(luatex.def)             Requested size: 227.90889pt x 79.2479pt.
-File: cetsa-logo.png Graphic file (type png)
-<use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 1118.
-(luatex.def)             Requested size: 227.90889pt x 65.90999pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1135--1135
-[]|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1138--1138
-[]|\TU/lmr/bx/n/10 Re-cur-sos Di-
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 1138--1138
-\TU/lmr/bx/n/10 dác-ti-cos/Uso de
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 1139--1139
-[]|\TU/lmr/bx/n/10 Ins-tru-men-tos de
- []
-
-
-Underfull \hbox (badness 2111) in paragraph at lines 1140--1141
-[]|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
- []
-
-
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1130--1142
- [][][][][][][] 
- []
-
-
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1142--1274
+Overfull \hbox (14.0752pt too wide) in alignment at lines 748--883
  [][][][][][][] 
  []
 
 [22] [23]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 1282.
+Package luatex.def Info: cegsa-logo.png  used on input line 891.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 1282.
+Package luatex.def Info: cetsa-logo.png  used on input line 891.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1298--1298
+Underfull \hbox (badness 10000) in paragraph at lines 907--907
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1301--1301
+Underfull \hbox (badness 10000) in paragraph at lines 910--910
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 1301--1301
+Underfull \hbox (badness 3375) in paragraph at lines 910--910
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 1302--1302
+Underfull \hbox (badness 1442) in paragraph at lines 911--911
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 1303--1304
+Underfull \hbox (badness 2111) in paragraph at lines 912--913
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1294--1305
+Overfull \hbox (14.0752pt too wide) in alignment at lines 903--914
  [][][][][][][] 
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1305--1437
+Underfull \hbox (badness 4634) in paragraph at lines 917--917
+[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 923--924
+[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 927--927
+[]|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 927--927
+\TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 927--927
+\TU/lmr/m/n/10 Li-bros de cuen-tos,
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 928--928
+[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 914--1049
  [][][][][][][] 
  []
 
 [24] [25]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 1445.
+Package luatex.def Info: cegsa-logo.png  used on input line 1057.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 1445.
+Package luatex.def Info: cetsa-logo.png  used on input line 1057.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1461--1461
+Underfull \hbox (badness 10000) in paragraph at lines 1073--1073
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1464--1464
+Underfull \hbox (badness 10000) in paragraph at lines 1076--1076
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 1464--1464
+Underfull \hbox (badness 3375) in paragraph at lines 1076--1076
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 1465--1465
+Underfull \hbox (badness 1442) in paragraph at lines 1077--1077
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 1466--1467
+Underfull \hbox (badness 2111) in paragraph at lines 1078--1079
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1457--1468
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1069--1080
  [][][][][][][] 
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1468--1600
+Underfull \hbox (badness 4634) in paragraph at lines 1083--1083
+[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 1089--1090
+[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1093--1093
+[]|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 1093--1093
+\TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 1093--1093
+\TU/lmr/m/n/10 Li-bros de cuen-tos,
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 1094--1094
+[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1080--1215
  [][][][][][][] 
  []
 
 [26] [27]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 1608.
+Package luatex.def Info: cegsa-logo.png  used on input line 1223.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 1608.
+Package luatex.def Info: cetsa-logo.png  used on input line 1223.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1624--1624
+Underfull \hbox (badness 10000) in paragraph at lines 1239--1239
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1627--1627
+Underfull \hbox (badness 10000) in paragraph at lines 1242--1242
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 1627--1627
+Underfull \hbox (badness 3375) in paragraph at lines 1242--1242
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 1628--1628
+Underfull \hbox (badness 1442) in paragraph at lines 1243--1243
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 1629--1630
+Underfull \hbox (badness 2111) in paragraph at lines 1244--1245
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1620--1631
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1235--1246
  [][][][][][][] 
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1631--1763
+Underfull \hbox (badness 4634) in paragraph at lines 1249--1249
+[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 1255--1256
+[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1259
+[]|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 1259--1259
+\TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 1259--1259
+\TU/lmr/m/n/10 Li-bros de cuen-tos,
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 1260--1260
+[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1246--1381
  [][][][][][][] 
  []
 
 [28] [29]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 1771.
+Package luatex.def Info: cegsa-logo.png  used on input line 1389.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 1771.
+Package luatex.def Info: cetsa-logo.png  used on input line 1389.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1787--1787
+Underfull \hbox (badness 10000) in paragraph at lines 1406--1406
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1790--1790
+Underfull \hbox (badness 10000) in paragraph at lines 1409--1409
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 1790--1790
+Underfull \hbox (badness 3375) in paragraph at lines 1409--1409
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 1791--1791
+Underfull \hbox (badness 1442) in paragraph at lines 1410--1410
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 1792--1793
+Underfull \hbox (badness 2111) in paragraph at lines 1411--1412
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1783--1794
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1401--1413
  [][][][][][][] 
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1794--1926
+Underfull \hbox (badness 4634) in paragraph at lines 1416--1416
+[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 1422--1423
+[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1426--1426
+[]|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 1426--1426
+\TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 1426--1426
+\TU/lmr/m/n/10 Li-bros de cuen-tos,
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 1427--1427
+[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1413--1548
  [][][][][][][] 
  []
 
 [30] [31]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 1934.
+Package luatex.def Info: cegsa-logo.png  used on input line 1556.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 1934.
+Package luatex.def Info: cetsa-logo.png  used on input line 1556.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1950--1950
+Underfull \hbox (badness 10000) in paragraph at lines 1572--1572
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1953--1953
+Underfull \hbox (badness 10000) in paragraph at lines 1575--1575
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 1953--1953
+Underfull \hbox (badness 3375) in paragraph at lines 1575--1575
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 1954--1954
+Underfull \hbox (badness 1442) in paragraph at lines 1576--1576
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 1955--1956
+Underfull \hbox (badness 2111) in paragraph at lines 1577--1578
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1946--1957
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1568--1579
  [][][][][][][] 
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1957--2089
+Underfull \hbox (badness 4634) in paragraph at lines 1582--1582
+[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 1588--1589
+[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1592--1592
+[]|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 1592--1592
+\TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 1592--1592
+\TU/lmr/m/n/10 Li-bros de cuen-tos,
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 1593--1593
+[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1579--1714
  [][][][][][][] 
  []
 
-[32] [33] (./plan-de-clase.aux
+[32] [33]
+File: cegsa-logo.png Graphic file (type png)
+<use cegsa-logo.png>
+Package luatex.def Info: cegsa-logo.png  used on input line 1722.
+(luatex.def)             Requested size: 227.90889pt x 79.2479pt.
+File: cetsa-logo.png Graphic file (type png)
+<use cetsa-logo.png>
+Package luatex.def Info: cetsa-logo.png  used on input line 1722.
+(luatex.def)             Requested size: 227.90889pt x 65.90999pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1738
+[]|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1741--1741
+[]|\TU/lmr/bx/n/10 Re-cur-sos Di-
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 1741--1741
+\TU/lmr/bx/n/10 dác-ti-cos/Uso de
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 1742--1742
+[]|\TU/lmr/bx/n/10 Ins-tru-men-tos de
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 1743--1744
+[]|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1734--1745
+ [][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 1748--1748
+[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 1754--1755
+[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1758--1758
+[]|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 1758--1758
+\TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 1758--1758
+\TU/lmr/m/n/10 Li-bros de cuen-tos,
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 1759--1759
+[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1745--1880
+ [][][][][][][] 
+ []
+
+[34] [35]
+File: cegsa-logo.png Graphic file (type png)
+<use cegsa-logo.png>
+Package luatex.def Info: cegsa-logo.png  used on input line 1888.
+(luatex.def)             Requested size: 227.90889pt x 79.2479pt.
+File: cetsa-logo.png Graphic file (type png)
+<use cetsa-logo.png>
+Package luatex.def Info: cetsa-logo.png  used on input line 1888.
+(luatex.def)             Requested size: 227.90889pt x 65.90999pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1904--1904
+[]|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1907--1907
+[]|\TU/lmr/bx/n/10 Re-cur-sos Di-
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 1907--1907
+\TU/lmr/bx/n/10 dác-ti-cos/Uso de
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 1908--1908
+[]|\TU/lmr/bx/n/10 Ins-tru-men-tos de
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 1909--1910
+[]|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1900--1911
+ [][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 1914--1914
+[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 1920--1921
+[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1924--1924
+[]|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 1924--1924
+\TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 1924--1924
+\TU/lmr/m/n/10 Li-bros de cuen-tos,
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 1925--1925
+[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1911--2046
+ [][][][][][][] 
+ []
+
+[36] [37]
+File: cegsa-logo.png Graphic file (type png)
+<use cegsa-logo.png>
+Package luatex.def Info: cegsa-logo.png  used on input line 2054.
+(luatex.def)             Requested size: 227.90889pt x 79.2479pt.
+File: cetsa-logo.png Graphic file (type png)
+<use cetsa-logo.png>
+Package luatex.def Info: cetsa-logo.png  used on input line 2054.
+(luatex.def)             Requested size: 227.90889pt x 65.90999pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2070--2070
+[]|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2073--2073
+[]|\TU/lmr/bx/n/10 Re-cur-sos Di-
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 2073--2073
+\TU/lmr/bx/n/10 dác-ti-cos/Uso de
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 2074--2074
+[]|\TU/lmr/bx/n/10 Ins-tru-men-tos de
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 2075--2076
+[]|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 2066--2077
+ [][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 2080--2080
+[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 2086--2087
+[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2090--2090
+[]|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 2090--2090
+\TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 2090--2090
+\TU/lmr/m/n/10 Li-bros de cuen-tos,
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 2091--2091
+[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 2077--2212
+ [][][][][][][] 
+ []
+
+[38] [39]
+File: cegsa-logo.png Graphic file (type png)
+<use cegsa-logo.png>
+Package luatex.def Info: cegsa-logo.png  used on input line 2220.
+(luatex.def)             Requested size: 227.90889pt x 79.2479pt.
+File: cetsa-logo.png Graphic file (type png)
+<use cetsa-logo.png>
+Package luatex.def Info: cetsa-logo.png  used on input line 2220.
+(luatex.def)             Requested size: 227.90889pt x 65.90999pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2236--2236
+[]|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2239--2239
+[]|\TU/lmr/bx/n/10 Re-cur-sos Di-
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 2239--2239
+\TU/lmr/bx/n/10 dác-ti-cos/Uso de
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 2240--2240
+[]|\TU/lmr/bx/n/10 Ins-tru-men-tos de
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 2241--2242
+[]|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 2232--2243
+ [][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 2246--2246
+[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 2252--2253
+[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2256--2256
+[]|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 2256--2256
+\TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 2256--2256
+\TU/lmr/m/n/10 Li-bros de cuen-tos,
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 2257--2257
+[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 2243--2378
+ [][][][][][][] 
+ []
+
+[40] [41] (./plan-de-clase.aux
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
 ))
 
 Here is how much of LuaTeX's memory you used:
- 15139 strings out of 477356
- 381553,794899 words of node,token memory allocated
+ 15147 strings out of 477356
+ 596180,794899 words of node,token memory allocated
  491 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 9 attribute, 57 glue_spec,
  6 attribute_list, 2 write nodes
-   avail lists: 2:3085,3:1615,4:237,5:1432,6:351,7:37928,8:1,9:3604,10:8,11:5002
-
- 35433 multiletter control sequences out of 65536+600000
+   avail lists: 2:5389,3:2527,4:621,5:1862,6:543,7:57990,8:1,9:5204,10:10,11:724
+2
+ 35441 multiletter control sequences out of 65536+600000
  26 fonts using 1476743 bytes
  83i,12n,77p,449b,300s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/tex
 mf/fonts/opentype/public/lm/lmroman10-bold.otf>
-Output written on plan-de-clase.pdf (33 pages, 1103169 bytes).
+Output written on plan-de-clase.pdf (41 pages, 1148075 bytes).
 
-PDF statistics: 127 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
+PDF statistics: 152 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
