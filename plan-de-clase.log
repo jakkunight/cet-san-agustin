@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.12.18)  12 JAN 2023 17:30
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.12.18)  13 JAN 2023 13:46
  restricted system commands enabled.
 **plan-de-clase.tex
 (./plan-de-clase.tex
@@ -2703,677 +2703,747 @@ Underfull \hbox (badness 1163) in paragraph at lines 762--762
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 748--883
- [][][][][][][] 
- []
-
-[22] [23]
-File: cegsa-logo.png Graphic file (type png)
-<use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 891.
-(luatex.def)             Requested size: 227.90889pt x 79.2479pt.
-File: cetsa-logo.png Graphic file (type png)
-<use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 891.
-(luatex.def)             Requested size: 227.90889pt x 65.90999pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 907--907
-[]|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 910--910
-[]|\TU/lmr/bx/n/10 Re-cur-sos Di-
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 910--910
-\TU/lmr/bx/n/10 dác-ti-cos/Uso de
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 911--911
-[]|\TU/lmr/bx/n/10 Ins-tru-men-tos de
- []
-
-
-Underfull \hbox (badness 2111) in paragraph at lines 912--913
-[]|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
- []
-
-
-Overfull \hbox (14.0752pt too wide) in alignment at lines 903--914
- [][][][][][][] 
- []
-
-
-Underfull \hbox (badness 4634) in paragraph at lines 917--917
+Underfull \hbox (badness 4634) in paragraph at lines 767--767
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 923--924
-[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+Underfull \hbox (badness 10000) in paragraph at lines 767--767
+\TU/lmr/m/n/10 Pro-gra-ma-ción con
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 927--927
-[]|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
+Underfull \hbox (badness 1009) in paragraph at lines 772--773
+[]\TU/lmr/m/n/10 Usar una compu-tado-ra o
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 927--927
-\TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
+Underfull \hbox (badness 3179) in paragraph at lines 773--774
+[]\TU/lmr/m/n/10 Uti-li-zar ”Scratch”pa-ra la
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 927--927
-\TU/lmr/m/n/10 Li-bros de cuen-tos,
+Underfull \hbox (badness 3179) in paragraph at lines 774--775
+[]\TU/lmr/m/n/10 Uti-li-zar ”Scratch”pa-ra la
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 928--928
-[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+Underfull \hbox (badness 10000) in paragraph at lines 774--775
+\TU/lmr/m/n/10 eje-cu-ción de so-lu-cio-nes
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 914--1049
+Underfull \hbox (badness 7888) in paragraph at lines 779--780
+[]\TU/lmr/m/n/10 Re-suel-ve pro-ble-mas me-
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 781--782
+\TU/lmr/m/n/10 so”de una so-lu-ción pro-
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 785--786
+[]\TU/lmr/m/n/10 Or-de-na ideas de ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 789--789
+[]|\TU/lmr/m/n/10 Dia-gra-mas ilus-tra-
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 789--789
+\TU/lmr/m/n/10 sen-ci-llos, pre-sen-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 789--789
+\TU/lmr/m/n/10 cio-nes, ”Scratch”,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--790
+[]|\TU/lmr/m/n/10 Ejer-ci-cios prác-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--790
+\TU/lmr/m/n/10 cos, Cues-tio-na-rios
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 748--898
  [][][][][][][] 
  []
 
-[24] [25]
+[22] [23] [24]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 1057.
+Package luatex.def Info: cegsa-logo.png  used on input line 906.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 1057.
+Package luatex.def Info: cetsa-logo.png  used on input line 906.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1073--1073
+Underfull \hbox (badness 10000) in paragraph at lines 922--922
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1076--1076
+Underfull \hbox (badness 10000) in paragraph at lines 925--925
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 1076--1076
+Underfull \hbox (badness 3375) in paragraph at lines 925--925
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 1077--1077
+Underfull \hbox (badness 1442) in paragraph at lines 926--926
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 1078--1079
+Underfull \hbox (badness 2111) in paragraph at lines 927--928
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1069--1080
+Overfull \hbox (14.0752pt too wide) in alignment at lines 918--929
  [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 1083--1083
+Underfull \hbox (badness 4634) in paragraph at lines 932--932
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 1089--1090
+Underfull \hbox (badness 5681) in paragraph at lines 938--939
 []\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1093--1093
+Underfull \hbox (badness 10000) in paragraph at lines 942--942
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 1093--1093
+Underfull \hbox (badness 6608) in paragraph at lines 942--942
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 1093--1093
+Underfull \hbox (badness 1043) in paragraph at lines 942--942
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 1094--1094
+Underfull \hbox (badness 1163) in paragraph at lines 943--943
 []|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1080--1215
+Overfull \hbox (14.0752pt too wide) in alignment at lines 929--1064
  [][][][][][][] 
  []
 
-[26] [27]
+[25] [26]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 1223.
+Package luatex.def Info: cegsa-logo.png  used on input line 1072.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 1223.
+Package luatex.def Info: cetsa-logo.png  used on input line 1072.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1239--1239
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1088
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1242--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1091--1091
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 1242--1242
+Underfull \hbox (badness 3375) in paragraph at lines 1091--1091
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 1243--1243
+Underfull \hbox (badness 1442) in paragraph at lines 1092--1092
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 1244--1245
+Underfull \hbox (badness 2111) in paragraph at lines 1093--1094
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1235--1246
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1084--1095
  [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 1249--1249
+Underfull \hbox (badness 4634) in paragraph at lines 1098--1098
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 1255--1256
+Underfull \hbox (badness 5681) in paragraph at lines 1104--1105
 []\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1259--1259
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1108
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 1259--1259
+Underfull \hbox (badness 6608) in paragraph at lines 1108--1108
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 1259--1259
+Underfull \hbox (badness 1043) in paragraph at lines 1108--1108
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 1260--1260
+Underfull \hbox (badness 1163) in paragraph at lines 1109--1109
 []|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1246--1381
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1095--1230
  [][][][][][][] 
  []
 
-[28] [29]
+[27] [28]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 1389.
+Package luatex.def Info: cegsa-logo.png  used on input line 1238.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 1389.
+Package luatex.def Info: cetsa-logo.png  used on input line 1238.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1406--1406
+Underfull \hbox (badness 10000) in paragraph at lines 1254--1254
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1409
+Underfull \hbox (badness 10000) in paragraph at lines 1257--1257
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 1409--1409
+Underfull \hbox (badness 3375) in paragraph at lines 1257--1257
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 1410--1410
+Underfull \hbox (badness 1442) in paragraph at lines 1258--1258
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 1411--1412
+Underfull \hbox (badness 2111) in paragraph at lines 1259--1260
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1401--1413
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1250--1261
  [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 1416--1416
+Underfull \hbox (badness 4634) in paragraph at lines 1264--1264
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 1422--1423
+Underfull \hbox (badness 5681) in paragraph at lines 1270--1271
 []\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1426--1426
+Underfull \hbox (badness 10000) in paragraph at lines 1274--1274
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 1426--1426
+Underfull \hbox (badness 6608) in paragraph at lines 1274--1274
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 1426--1426
+Underfull \hbox (badness 1043) in paragraph at lines 1274--1274
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 1427--1427
+Underfull \hbox (badness 1163) in paragraph at lines 1275--1275
 []|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1413--1548
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1261--1396
  [][][][][][][] 
  []
 
-[30] [31]
+[29] [30]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 1556.
+Package luatex.def Info: cegsa-logo.png  used on input line 1404.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 1556.
+Package luatex.def Info: cetsa-logo.png  used on input line 1404.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1572--1572
+Underfull \hbox (badness 10000) in paragraph at lines 1421--1421
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1575--1575
+Underfull \hbox (badness 10000) in paragraph at lines 1424--1424
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 1575--1575
+Underfull \hbox (badness 3375) in paragraph at lines 1424--1424
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 1576--1576
+Underfull \hbox (badness 1442) in paragraph at lines 1425--1425
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 1577--1578
+Underfull \hbox (badness 2111) in paragraph at lines 1426--1427
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1568--1579
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1416--1428
  [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 1582--1582
+Underfull \hbox (badness 4634) in paragraph at lines 1431--1431
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 1588--1589
+Underfull \hbox (badness 5681) in paragraph at lines 1437--1438
 []\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1592--1592
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1441
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 1592--1592
+Underfull \hbox (badness 6608) in paragraph at lines 1441--1441
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 1592--1592
+Underfull \hbox (badness 1043) in paragraph at lines 1441--1441
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 1593--1593
+Underfull \hbox (badness 1163) in paragraph at lines 1442--1442
 []|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1579--1714
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1428--1563
  [][][][][][][] 
  []
 
-[32] [33]
+[31] [32]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 1722.
+Package luatex.def Info: cegsa-logo.png  used on input line 1571.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 1722.
+Package luatex.def Info: cetsa-logo.png  used on input line 1571.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1738--1738
+Underfull \hbox (badness 10000) in paragraph at lines 1587--1587
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1741--1741
+Underfull \hbox (badness 10000) in paragraph at lines 1590--1590
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 1741--1741
+Underfull \hbox (badness 3375) in paragraph at lines 1590--1590
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 1742--1742
+Underfull \hbox (badness 1442) in paragraph at lines 1591--1591
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 1743--1744
+Underfull \hbox (badness 2111) in paragraph at lines 1592--1593
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1734--1745
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1583--1594
  [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 1748--1748
+Underfull \hbox (badness 4634) in paragraph at lines 1597--1597
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 1754--1755
+Underfull \hbox (badness 5681) in paragraph at lines 1603--1604
 []\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1758--1758
+Underfull \hbox (badness 10000) in paragraph at lines 1607--1607
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 1758--1758
+Underfull \hbox (badness 6608) in paragraph at lines 1607--1607
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 1758--1758
+Underfull \hbox (badness 1043) in paragraph at lines 1607--1607
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 1759--1759
+Underfull \hbox (badness 1163) in paragraph at lines 1608--1608
 []|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1745--1880
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1594--1729
  [][][][][][][] 
  []
 
-[34] [35]
+[33] [34]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 1888.
+Package luatex.def Info: cegsa-logo.png  used on input line 1737.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 1888.
+Package luatex.def Info: cetsa-logo.png  used on input line 1737.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1904--1904
+Underfull \hbox (badness 10000) in paragraph at lines 1753--1753
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1907--1907
+Underfull \hbox (badness 10000) in paragraph at lines 1756--1756
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 1907--1907
+Underfull \hbox (badness 3375) in paragraph at lines 1756--1756
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 1908--1908
+Underfull \hbox (badness 1442) in paragraph at lines 1757--1757
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 1909--1910
+Underfull \hbox (badness 2111) in paragraph at lines 1758--1759
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1900--1911
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1749--1760
  [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 1914--1914
+Underfull \hbox (badness 4634) in paragraph at lines 1763--1763
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 1920--1921
+Underfull \hbox (badness 5681) in paragraph at lines 1769--1770
 []\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1924--1924
+Underfull \hbox (badness 10000) in paragraph at lines 1773--1773
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 1924--1924
+Underfull \hbox (badness 6608) in paragraph at lines 1773--1773
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 1924--1924
+Underfull \hbox (badness 1043) in paragraph at lines 1773--1773
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 1925--1925
+Underfull \hbox (badness 1163) in paragraph at lines 1774--1774
 []|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 1911--2046
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1760--1895
  [][][][][][][] 
  []
 
-[36] [37]
+[35] [36]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 2054.
+Package luatex.def Info: cegsa-logo.png  used on input line 1903.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 2054.
+Package luatex.def Info: cetsa-logo.png  used on input line 1903.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2070--2070
+Underfull \hbox (badness 10000) in paragraph at lines 1919--1919
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2073--2073
+Underfull \hbox (badness 10000) in paragraph at lines 1922--1922
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 2073--2073
+Underfull \hbox (badness 3375) in paragraph at lines 1922--1922
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 2074--2074
+Underfull \hbox (badness 1442) in paragraph at lines 1923--1923
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 2075--2076
+Underfull \hbox (badness 2111) in paragraph at lines 1924--1925
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 2066--2077
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1915--1926
  [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 2080--2080
+Underfull \hbox (badness 4634) in paragraph at lines 1929--1929
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 2086--2087
+Underfull \hbox (badness 5681) in paragraph at lines 1935--1936
 []\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2090--2090
+Underfull \hbox (badness 10000) in paragraph at lines 1939--1939
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 2090--2090
+Underfull \hbox (badness 6608) in paragraph at lines 1939--1939
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 2090--2090
+Underfull \hbox (badness 1043) in paragraph at lines 1939--1939
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 2091--2091
+Underfull \hbox (badness 1163) in paragraph at lines 1940--1940
 []|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 2077--2212
+Overfull \hbox (14.0752pt too wide) in alignment at lines 1926--2061
  [][][][][][][] 
  []
 
-[38] [39]
+[37] [38]
 File: cegsa-logo.png Graphic file (type png)
 <use cegsa-logo.png>
-Package luatex.def Info: cegsa-logo.png  used on input line 2220.
+Package luatex.def Info: cegsa-logo.png  used on input line 2069.
 (luatex.def)             Requested size: 227.90889pt x 79.2479pt.
 File: cetsa-logo.png Graphic file (type png)
 <use cetsa-logo.png>
-Package luatex.def Info: cetsa-logo.png  used on input line 2220.
+Package luatex.def Info: cetsa-logo.png  used on input line 2069.
 (luatex.def)             Requested size: 227.90889pt x 65.90999pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2236--2236
+Underfull \hbox (badness 10000) in paragraph at lines 2085--2085
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2239--2239
+Underfull \hbox (badness 10000) in paragraph at lines 2088--2088
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 2239--2239
+Underfull \hbox (badness 3375) in paragraph at lines 2088--2088
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 2240--2240
+Underfull \hbox (badness 1442) in paragraph at lines 2089--2089
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 2241--2242
+Underfull \hbox (badness 2111) in paragraph at lines 2090--2091
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 2232--2243
+Overfull \hbox (14.0752pt too wide) in alignment at lines 2081--2092
  [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 2246--2246
+Underfull \hbox (badness 4634) in paragraph at lines 2095--2095
 []|\TU/lmr/m/n/10 In-tro-duc-ción a la
  []
 
 
-Underfull \hbox (badness 5681) in paragraph at lines 2252--2253
+Underfull \hbox (badness 5681) in paragraph at lines 2101--2102
 []\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2256--2256
+Underfull \hbox (badness 10000) in paragraph at lines 2105--2105
 []|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
  []
 
 
-Underfull \hbox (badness 6608) in paragraph at lines 2256--2256
+Underfull \hbox (badness 6608) in paragraph at lines 2105--2105
 \TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 2256--2256
+Underfull \hbox (badness 1043) in paragraph at lines 2105--2105
 \TU/lmr/m/n/10 Li-bros de cuen-tos,
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 2257--2257
+Underfull \hbox (badness 1163) in paragraph at lines 2106--2106
 []|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 2243--2378
+Overfull \hbox (14.0752pt too wide) in alignment at lines 2092--2227
  [][][][][][][] 
  []
 
-[40] [41] (./plan-de-clase.aux
+[39] [40]
+File: cegsa-logo.png Graphic file (type png)
+<use cegsa-logo.png>
+Package luatex.def Info: cegsa-logo.png  used on input line 2235.
+(luatex.def)             Requested size: 227.90889pt x 79.2479pt.
+File: cetsa-logo.png Graphic file (type png)
+<use cetsa-logo.png>
+Package luatex.def Info: cetsa-logo.png  used on input line 2235.
+(luatex.def)             Requested size: 227.90889pt x 65.90999pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2251--2251
+[]|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2254--2254
+[]|\TU/lmr/bx/n/10 Re-cur-sos Di-
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 2254--2254
+\TU/lmr/bx/n/10 dác-ti-cos/Uso de
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 2255--2255
+[]|\TU/lmr/bx/n/10 Ins-tru-men-tos de
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 2256--2257
+[]|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 2247--2258
+ [][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 4634) in paragraph at lines 2261--2261
+[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 2267--2268
+[]\TU/lmr/m/n/10 Ela-bo-ra es-tra-te-gias pa-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2271--2271
+[]|\TU/lmr/m/n/10 Jue-gos di-ver-sos,
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 2271--2271
+\TU/lmr/m/n/10 Acer-ti-jos, Puzz-les,
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 2271--2271
+\TU/lmr/m/n/10 Li-bros de cuen-tos,
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 2272--2272
+[]|\TU/lmr/m/n/10 Ques-tio-na-rios Ora-
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 2258--2393
+ [][][][][][][] 
+ []
+
+[41] [42] (./plan-de-clase.aux
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
 ))
@@ -3391,10 +3461,10 @@ Here is how much of LuaTeX's memory you used:
  83i,12n,77p,449b,300s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/tex
 mf/fonts/opentype/public/lm/lmroman10-bold.otf>
-Output written on plan-de-clase.pdf (41 pages, 1148075 bytes).
+Output written on plan-de-clase.pdf (42 pages, 1150785 bytes).
 
-PDF statistics: 152 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+PDF statistics: 156 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
