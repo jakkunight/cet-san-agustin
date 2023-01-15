@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.12.18)  15 JAN 2023 15:55
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.12.18)  15 JAN 2023 16:00
  restricted system commands enabled.
 **plan-de-clase.tex
 (./plan-de-clase.tex
@@ -722,12 +722,7 @@ Overfull \hbox (14.0752pt too wide) in alignment at lines 60--71
  []
 
 
-Underfull \hbox (badness 4634) in paragraph at lines 74--74
-[]|\TU/lmr/m/n/10 In-tro-duc-ción a la
- []
-
-
-Overfull \hbox (14.0752pt too wide) in alignment at lines 71--199
+Overfull \hbox (14.0752pt too wide) in alignment at lines 71--203
  [][][][][][][] 
  []
 
@@ -745,13 +740,13 @@ Here is how much of LuaTeX's memory you used:
  491 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 9 attribute, 57 glue_spec,
  6 attribute_list, 2 write nodes
-   avail lists: 2:1993,3:565,4:82,5:91,6:231,7:3269,8:1,9:1918,10:5,11:159
+   avail lists: 2:2041,3:579,4:82,5:87,6:239,7:3257,8:1,9:1972,10:5,11:149
  35416 multiletter control sequences out of 65536+600000
  26 fonts using 1476743 bytes
  83i,12n,77p,449b,300s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/tex
 mf/fonts/opentype/public/lm/lmroman10-bold.otf>
-Output written on plan-de-clase.pdf (2 pages, 1049252 bytes).
+Output written on plan-de-clase.pdf (2 pages, 1049088 bytes).
 
 PDF statistics: 30 PDF objects out of 1000 (max. 8388607)
  17 compressed objects within 1 object stream

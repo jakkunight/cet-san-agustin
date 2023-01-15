@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1673798129 "plan-de-clase.tex" "plan-de-clase.pdf" "plan-de-clase" 1673798131 0
+["lualatex"] 1673798405 "plan-de-clase.tex" "plan-de-clase.pdf" "plan-de-clase" 1673798406 0
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm" 1136768653 1508 3b32edd0d68f6498a5a375e78f9edc5e ""
@@ -166,8 +166,8 @@
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1671404657 4782771 3ea13e6c934ba6e4fc01319be1731f2b ""
   "cegsa-logo.png" 1672938321 398828 8254ccdfabc94286d30806c36eddc068 ""
   "cetsa-logo.png" 1672938321 489508 f11c514ddc777cc01b801bde8a0137bd ""
-  "plan-de-clase.aux" 1673798131 421 0a71e1fb43d159f4e728ae74d3b5296d "lualatex"
-  "plan-de-clase.tex" 1673798124 3912 5144c47dae278f435d9c13e912da4b15 ""
+  "plan-de-clase.aux" 1673798406 421 0a71e1fb43d159f4e728ae74d3b5296d "lualatex"
+  "plan-de-clase.tex" 1673798403 3907 33b80ff7173998a4666fe295e8e52a64 ""
   (generated)
   "plan-de-clase.aux"
   "plan-de-clase.log"
