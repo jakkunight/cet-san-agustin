@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.12.18)  15 JAN 2023 16:00
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.12.18)  16 JAN 2023 18:01
  restricted system commands enabled.
 **plan-de-clase.tex
 (./plan-de-clase.tex
@@ -692,44 +692,89 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 48--60
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
 []|\TU/lmr/bx/n/10 Con-te-ni-do/Uni-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--67
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
 []|\TU/lmr/bx/n/10 Re-cur-sos Di-
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 67--67
+Underfull \hbox (badness 3375) in paragraph at lines 66--66
 \TU/lmr/bx/n/10 dác-ti-cos/Uso de
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 68--68
+Underfull \hbox (badness 1442) in paragraph at lines 67--67
 []|\TU/lmr/bx/n/10 Ins-tru-men-tos de
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 69--70
+Underfull \hbox (badness 2111) in paragraph at lines 68--69
 []|\TU/lmr/bx/n/10 Pro-yec-tos Dis-ci-
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 60--71
+Overfull \hbox (14.0752pt too wide) in alignment at lines 60--70
  [][][][][][][] 
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 71--203
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]|\TU/lmr/m/n/10 Compu-tado-ras.
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 75--75
+\TU/lmr/m/n/10 to, ti-pos, uso y
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 76--76
+\TU/lmr/m/n/10 pos, usos y ejem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[]\TU/lmr/m/n/10 Uti-li-zar con nor-ma-li-dad
+ []
+
+
+Underfull \hbox (badness 7415) in paragraph at lines 78--79
+\TU/lmr/m/n/10 quie-ra de sus for-ma-tos
+ []
+
+
+Underfull \hbox (badness 7522) in paragraph at lines 81--82
+\TU/lmr/m/n/10 pe-ri-fé-ri-cos más co-mu-nes
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 81--82
+\TU/lmr/m/n/10 (mou-se, te-cla-do, mo-ni-tor,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\TU/lmr/m/n/10 Ilus-tra-cio-nes,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\TU/lmr/m/n/10 Pre-gun-tas ora-les,
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 70--211
  [][][][][][][] 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./cegsa-logo.png><./cetsa-lo
-go.png>] [2] (./plan-de-clase.aux
+go.png>] [2] [3] (./plan-de-clase.aux
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
 ))
@@ -740,16 +785,16 @@ Here is how much of LuaTeX's memory you used:
  491 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 9 attribute, 57 glue_spec,
  6 attribute_list, 2 write nodes
-   avail lists: 2:2041,3:579,4:82,5:87,6:239,7:3257,8:1,9:1972,10:5,11:149
+   avail lists: 2:2203,3:659,4:105,5:149,6:255,7:5670,8:1,9:2026,10:9,11:487
  35416 multiletter control sequences out of 65536+600000
  26 fonts using 1476743 bytes
  83i,12n,77p,449b,300s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/tex
 mf/fonts/opentype/public/lm/lmroman10-bold.otf>
-Output written on plan-de-clase.pdf (2 pages, 1049088 bytes).
+Output written on plan-de-clase.pdf (3 pages, 1052466 bytes).
 
-PDF statistics: 30 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+PDF statistics: 33 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
