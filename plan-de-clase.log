@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.12.18)  16 JAN 2023 18:01
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.12.18)  17 JAN 2023 13:30
  restricted system commands enabled.
 **plan-de-clase.tex
 (./plan-de-clase.tex
@@ -762,39 +762,660 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--88
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\TU/lmr/m/n/10 gos, ex-pe-ri-men-tos
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []|\TU/lmr/m/n/10 Pre-gun-tas ora-les,
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 70--211
+Underfull \hbox (badness 1194) in paragraph at lines 94--94
+[]|\TU/lmr/m/n/10 Ló-gi-ca de la Pro-
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 94--94
+\TU/lmr/m/n/10 gra-ma-ción. Apli-ca-
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 103--104
+[]\TU/lmr/m/n/10 Eje-cu-tar es-tra-te-gias pro-
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 108--108
+[]|\TU/lmr/m/n/10 Puzz-les, Acer-ti-jos,
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 108--108
+\TU/lmr/m/n/10 Apli-ca-cio-nes Web,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/lmr/m/n/10 Pre-gun-tas ora-les,
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 110--110
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 111--115
+\TU/lmr/m/n/10 pue-den leer o es-
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 111--115
+\TU/lmr/m/n/10 zo-na-mien-to ló-gi-co.
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 111--115
+\TU/lmr/m/n/10 La me-jor ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 111--115
+\TU/lmr/m/n/10 que se me ocu-rre
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 111--115
+\TU/lmr/m/n/10 tra-vés de los jue-
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 111--115
+\TU/lmr/m/n/10 gos, pues re-ve-lan
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 111--115
+\TU/lmr/m/n/10 mu-cho acer-ca del
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 111--115
+\TU/lmr/m/n/10 alumno, y per-mi-
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 111--115
+\TU/lmr/m/n/10 to que do-mi-na la
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 127--128
+[]\TU/lmr/m/n/10 Ex-pli-car se-cuen-cias sen-ci-
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 128--129
+[]\TU/lmr/m/n/10 Or-de-nar ideas ex-pues-tas
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 134--134
+[]|\TU/lmr/m/n/10 Puzz-les, Acer-ti-jos,
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 134--134
+\TU/lmr/m/n/10 Apli-ca-cio-nes Web,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\TU/lmr/m/n/10 Pre-gun-tas ora-les,
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 136--136
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 137--141
+\TU/lmr/m/n/10 pue-den leer o es-
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 137--141
+\TU/lmr/m/n/10 zo-na-mien-to ló-gi-co.
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 137--141
+\TU/lmr/m/n/10 La me-jor ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 137--141
+\TU/lmr/m/n/10 que se me ocu-rre
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 137--141
+\TU/lmr/m/n/10 tra-vés de los jue-
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 137--141
+\TU/lmr/m/n/10 gos, pues re-ve-lan
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 137--141
+\TU/lmr/m/n/10 mu-cho acer-ca del
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 137--141
+\TU/lmr/m/n/10 alumno, y per-mi-
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 137--141
+\TU/lmr/m/n/10 to que do-mi-na la
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 144--144
+[]|\TU/lmr/m/n/10 Ló-gi-ca de la Pro-
+ []
+
+
+Underfull \hbox (badness 4995) in paragraph at lines 144--144
+\TU/lmr/m/n/10 gra-ma-ción. Con-di-
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 147--148
+\TU/lmr/m/n/10 di-cio-na-li-dad a si-tua-cio-nes
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 154--155
+[]\TU/lmr/m/n/10 Or-de-nar ideas ex-pues-tas
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 161--161
+[]|\TU/lmr/m/n/10 Puzz-les, Acer-ti-jos,
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 161--161
+\TU/lmr/m/n/10 Apli-ca-cio-nes Web,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+[]|\TU/lmr/m/n/10 Pre-gun-tas ora-les,
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 163--163
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 164--168
+\TU/lmr/m/n/10 pue-den leer o es-
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 164--168
+\TU/lmr/m/n/10 zo-na-mien-to ló-gi-co.
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 164--168
+\TU/lmr/m/n/10 La me-jor ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 164--168
+\TU/lmr/m/n/10 que se me ocu-rre
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 164--168
+\TU/lmr/m/n/10 tra-vés de los jue-
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 164--168
+\TU/lmr/m/n/10 gos, pues re-ve-lan
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 164--168
+\TU/lmr/m/n/10 mu-cho acer-ca del
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 164--168
+\TU/lmr/m/n/10 alumno, y per-mi-
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 164--168
+\TU/lmr/m/n/10 to que do-mi-na la
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 171--171
+[]|\TU/lmr/m/n/10 Exá-me-nes. Eva-lua-
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 180--181
+[]\TU/lmr/m/n/10 Eje-cu-tar es-tra-te-gias pro-
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 185--185
+[]|\TU/lmr/m/n/10 Ejer-ci-cios de eva-
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 185--185
+\TU/lmr/m/n/10 lua-ción, Pre-gun-tas
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 186--186
+[]|\TU/lmr/m/n/10 Ejer-ci-cios de eva-
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 186--186
+\TU/lmr/m/n/10 lua-ción, Pre-gun-tas
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 191--191
+\TU/lmr/m/n/10 ma-ción. Apli-ca-ción
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 200--201
+[]\TU/lmr/m/n/10 Eje-cu-tar es-tra-te-gias pro-
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 205--205
+[]|\TU/lmr/m/n/10 Ejer-ci-cios de eva-
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 205--205
+\TU/lmr/m/n/10 lua-ción, Pre-gun-tas
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 206--206
+[]|\TU/lmr/m/n/10 Ejer-ci-cios de eva-
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 206--206
+\TU/lmr/m/n/10 lua-ción, Pre-gun-tas
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 220--221
+[]\TU/lmr/m/n/10 Ex-pli-car si-tua-cio-nes co-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+[]|\TU/lmr/m/n/10 Ilus-tra-cio-nes,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+\TU/lmr/m/n/10 gos, ex-pe-ri-men-tos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+[]|\TU/lmr/m/n/10 Pre-gun-tas ora-les,
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 231--231
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 232--236
+\TU/lmr/m/n/10 pue-den leer o es-
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 232--236
+\TU/lmr/m/n/10 zo-na-mien-to ló-gi-co.
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 232--236
+\TU/lmr/m/n/10 La me-jor ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 232--236
+\TU/lmr/m/n/10 que se me ocu-rre
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 232--236
+\TU/lmr/m/n/10 tra-vés de los jue-
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 232--236
+\TU/lmr/m/n/10 gos, pues re-ve-lan
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 232--236
+\TU/lmr/m/n/10 mu-cho acer-ca del
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 232--236
+\TU/lmr/m/n/10 alumno, y per-mi-
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 232--236
+\TU/lmr/m/n/10 to que do-mi-na la
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 239--239
+[]|\TU/lmr/m/n/10 Ló-gi-ca de la Pro-
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 248--249
+[]\TU/lmr/m/n/10 Ma-ne-jar múl-ti-ples ta-reas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
+[]|\TU/lmr/m/n/10 Ilus-tra-cio-nes,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
+\TU/lmr/m/n/10 gos, ex-pe-ri-men-tos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
+[]|\TU/lmr/m/n/10 Pre-gun-tas ora-les,
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 256--256
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 257--261
+\TU/lmr/m/n/10 pue-den leer o es-
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 257--261
+\TU/lmr/m/n/10 zo-na-mien-to ló-gi-co.
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 257--261
+\TU/lmr/m/n/10 La me-jor ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 257--261
+\TU/lmr/m/n/10 que se me ocu-rre
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 257--261
+\TU/lmr/m/n/10 tra-vés de los jue-
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 257--261
+\TU/lmr/m/n/10 gos, pues re-ve-lan
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 257--261
+\TU/lmr/m/n/10 mu-cho acer-ca del
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 257--261
+\TU/lmr/m/n/10 alumno, y per-mi-
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 257--261
+\TU/lmr/m/n/10 to que do-mi-na la
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 264--264
+\TU/lmr/m/n/10 ma-ción. Apli-ca-ción
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 273--274
+[]\TU/lmr/m/n/10 Ex-pli-car si-tua-cio-nes co-ti-
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 281--281
+[]|\TU/lmr/m/n/10 Ejer-ci-cios de eva-
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 281--281
+\TU/lmr/m/n/10 lua-ción, Pre-gun-tas
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 282--282
+[]|\TU/lmr/m/n/10 Ejer-ci-cios de eva-
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 282--282
+\TU/lmr/m/n/10 lua-ción, Pre-gun-tas
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 283--283
+[]|\TU/lmr/m/n/10 ”¡Ju-gan-do tam-bién
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 284--288
+\TU/lmr/m/n/10 pue-den leer o es-
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 284--288
+\TU/lmr/m/n/10 zo-na-mien-to ló-gi-co.
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 284--288
+\TU/lmr/m/n/10 La me-jor ma-ne-ra
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 284--288
+\TU/lmr/m/n/10 que se me ocu-rre
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 284--288
+\TU/lmr/m/n/10 tra-vés de los jue-
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 284--288
+\TU/lmr/m/n/10 gos, pues re-ve-lan
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 284--288
+\TU/lmr/m/n/10 mu-cho acer-ca del
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 284--288
+\TU/lmr/m/n/10 alumno, y per-mi-
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 284--288
+\TU/lmr/m/n/10 to que do-mi-na la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+[]|\TU/lmr/m/n/10 Ló-gi-ca de
+ []
+
+
+Underfull \hbox (badness 5939) in paragraph at lines 290--290
+\TU/lmr/m/n/10 la Pro-gra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+\TU/lmr/m/n/10 ma-ción.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+\TU/lmr/m/n/10 Apli-ca-ción
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+[]\TU/lmr/m/n/10 Asi-mi-lar los
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+\TU/lmr/m/n/10 prin-ci-pios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+\TU/lmr/m/n/10 ló-gi-ca (PI,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+\TU/lmr/m/n/10 PRS, PNC,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+\TU/lmr/m/n/10 PTE, PC,
+ []
+
+
+Underfull \hbox (badness 8094) in paragraph at lines 293--294
+[]\TU/lmr/m/n/10 Aso-ciar cau-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+[]\TU/lmr/m/n/10 Res-pe-tar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+\TU/lmr/m/n/10 las re-glas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+\TU/lmr/m/n/10 es-ta-ble-ci-das
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+\TU/lmr/m/n/10 en di-ver-sas
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 299--300
+[]\TU/lmr/m/n/10 Eje-cu-tar es-tra-te-gias pro-
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 304--304
+\TU/lmr/m/n/10 tas acer-ca de con-cep-tos cla-ve,
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 305--305
+[]|\TU/lmr/m/n/10 Ejer-ci-cios de eva-
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 305--305
+\TU/lmr/m/n/10 lua-ción, Pre-gun-tas
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 70--309
  [][][][][][][] 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./cegsa-logo.png><./cetsa-lo
-go.png>] [2] [3] (./plan-de-clase.aux
+go.png>] [2] [3] [4] [5] [6] [7] [8] [9] [10] (./plan-de-clase.aux
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
 ))
 
 Here is how much of LuaTeX's memory you used:
- 14858 strings out of 477356
- 100000,794899 words of node,token memory allocated
+ 14865 strings out of 477356
+ 381565,794899 words of node,token memory allocated
  491 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 9 attribute, 57 glue_spec,
  6 attribute_list, 2 write nodes
-   avail lists: 2:2203,3:659,4:105,5:149,6:255,7:5670,8:1,9:2026,10:9,11:487
- 35416 multiletter control sequences out of 65536+600000
+   avail lists: 1:3,2:4030,3:1701,4:405,5:728,6:415,7:34098,8:1,9:3762,10:9,11:4
+022
+ 35423 multiletter control sequences out of 65536+600000
  26 fonts using 1476743 bytes
  83i,12n,77p,449b,300s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/tex
 mf/fonts/opentype/public/lm/lmroman10-bold.otf>
-Output written on plan-de-clase.pdf (3 pages, 1052466 bytes).
+Output written on plan-de-clase.pdf (10 pages, 1073462 bytes).
 
-PDF statistics: 33 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+PDF statistics: 54 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
