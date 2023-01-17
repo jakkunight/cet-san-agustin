@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.12.18)  17 JAN 2023 13:34
+=======
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022/Debian)  (format=lualatex 2022.12.18)  17 JAN 2023 13:43
+>>>>>>> master
  restricted system commands enabled.
 **plan-de-clase.tex
 (./plan-de-clase.tex
@@ -1297,83 +1301,13 @@ Underfull \hbox (badness 1584) in paragraph at lines 284--288
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 290--290
-[]|\TU/lmr/m/n/10 Ló-gi-ca de
+Underfull \hbox (badness 1062) in paragraph at lines 291--291
+\TU/lmr/m/n/10 ma-ción. Apli-ca-ción
  []
 
 
-Underfull \hbox (badness 5939) in paragraph at lines 290--290
-\TU/lmr/m/n/10 la Pro-gra-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 290--290
-\TU/lmr/m/n/10 ma-ción.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 290--290
-\TU/lmr/m/n/10 Apli-ca-ción
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
-[]\TU/lmr/m/n/10 Asi-mi-lar los
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
-\TU/lmr/m/n/10 prin-ci-pios
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
-\TU/lmr/m/n/10 ló-gi-ca (PI,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
-\TU/lmr/m/n/10 PRS, PNC,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--293
-\TU/lmr/m/n/10 PTE, PC,
- []
-
-
-Underfull \hbox (badness 8094) in paragraph at lines 293--294
-[]\TU/lmr/m/n/10 Aso-ciar cau-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
-[]\TU/lmr/m/n/10 Res-pe-tar
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
-\TU/lmr/m/n/10 las re-glas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
-\TU/lmr/m/n/10 es-ta-ble-ci-das
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
-\TU/lmr/m/n/10 en di-ver-sas
- []
-
-
-Underfull \hbox (badness 4341) in paragraph at lines 299--300
+Underfull \hbox (badness 4341) in paragraph at lines 300--301
 []\TU/lmr/m/n/10 Eje-cu-tar es-tra-te-gias pro-
- []
-
-
-Underfull \hbox (badness 1077) in paragraph at lines 304--304
-\TU/lmr/m/n/10 tas acer-ca de con-cep-tos cla-ve,
  []
 
 
@@ -1387,7 +1321,17 @@ Underfull \hbox (badness 3907) in paragraph at lines 305--305
  []
 
 
-Overfull \hbox (14.0752pt too wide) in alignment at lines 70--309
+Underfull \hbox (badness 3557) in paragraph at lines 306--306
+[]|\TU/lmr/m/n/10 Ejer-ci-cios de eva-
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 306--306
+\TU/lmr/m/n/10 lua-ción, Pre-gun-tas
+ []
+
+
+Overfull \hbox (14.0752pt too wide) in alignment at lines 70--310
  [][][][][][][] 
  []
 
@@ -1401,18 +1345,22 @@ LaTeX Info: Redefining \% on input line 16.
 
 Here is how much of LuaTeX's memory you used:
  14865 strings out of 477356
- 381565,794899 words of node,token memory allocated
+ 381570,794899 words of node,token memory allocated
  491 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 9 attribute, 57 glue_spec,
  6 attribute_list, 2 write nodes
-   avail lists: 1:3,2:4030,3:1701,4:405,5:728,6:415,7:34098,8:1,9:3762,10:9,11:4
-022
+   avail lists: 1:1,2:4039,3:1701,4:405,5:734,6:417,7:34120,8:1,9:3760,10:9,11:4
+026
  35423 multiletter control sequences out of 65536+600000
  26 fonts using 1476743 bytes
  83i,12n,77p,449b,300s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/tex
 mf/fonts/opentype/public/lm/lmroman10-bold.otf>
+<<<<<<< HEAD
 Output written on plan-de-clase.pdf (10 pages, 1073458 bytes).
+=======
+Output written on plan-de-clase.pdf (10 pages, 1073387 bytes).
+>>>>>>> master
 
 PDF statistics: 54 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
